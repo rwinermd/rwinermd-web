@@ -1,0 +1,19 @@
+[[main]]
+  name = "Second Opinions"
+  url = "/second-opinions/"
+  weight = 10
+
+[[main]]
+  name = "Schedule: Second Opinion"
+  url = "/schedule-second-opinion/"
+  weight = 20
+
+[[main]]
+  name = "Schedule: Psychoanalysis"
+  url = "/schedule-psychoanalysis/"
+  weight = 30
+
+[[main]]
+  name = "Payment"
+  url = "/payment/"
+  weight = 40
