@@ -1,21 +1,19 @@
-title = "Robert Trébor"
+title = "Robert Winer, M.D."
 baseurl = "http://localhost/"
 disableAliases = true
 disableHugoGeneratorInject = true
-# disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
 languageCode = "en-US"
 rssLimit = 10
-summarylength = 20 # 70 (default)
+summarylength = 20
 
-# Multilingual
 defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Robert Trébor — A Winer Foundation Arts & Culture Project"
+copyRight = "Robert Winer, M.D., Dipl. (FAZ, Zürich), FRSM"
 
 [build.buildStats]
   enable = true
@@ -45,7 +43,6 @@ copyRight = "Robert Trébor — A Winer Foundation Arts & Culture Project"
   isPlainText = true
   mediaType = "text/plain"
 
-# Add output format for section sitemap.xml
 [outputFormats.sitemap]
   mediaType = "application/xml"
   baseName = "sitemap"
@@ -62,38 +59,21 @@ copyRight = "Robert Trébor — A Winer Foundation Arts & Culture Project"
 [caches]
   [caches.getresource]
     dir = ":cacheDir/:project"
-    maxAge = -1 # "30m"
+    maxAge = -1
 
 [taxonomies]
-  contributor = "contributors"
   category = "categories"
   tag = "tags"
 
 [permalinks]
   blog = "/blog/:slug/"
-  docs = "/docs/:sections[1:]/:slug/"
-# docs = "/docs/1.0/:sections[1:]/:slug/"
 
 [minify.tdewolff.html]
-  keepComments = true # If set to false, build signatures are removed
+  keepComments = true
   keepWhitespace = false
 
 [pagination]
   pagerSize = 10
-
-[related]
-  threshold = 80
-  includeNewer = true
-  toLower = false
-    [[related.indices]]
-      name = "categories"
-      weight = 100
-    [[related.indices]]
-      name = "tags"
-      weight = 80
-    [[related.indices]]
-      name = "date"
-      weight = 10
 
 [imaging]
   anchor = "Center"
