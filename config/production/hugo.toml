@@ -1,3 +1,1 @@
-# Overrides for production (custom domain)
-# Use trailing slash so asset paths resolve correctly.
-baseurl = "https://roberttrebor.com/"
+baseurl = "https://www.rwinermd.com/"
