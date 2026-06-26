@@ -5,7 +5,7 @@ lead: "Board-certified neurologist and fellowship-trained psychopharmacologist, 
 ---
 
 {{< rawhtml >}}
-<img src="/images/header-banner.jpg" alt="Academic credentials banner" style="width:100%;max-width:960px;display:block;margin:0 auto 1.5rem auto;">
+<img src="/images/homepage/header-banner.jpg" alt="Academic credentials banner" style="width:100%;max-width:960px;display:block;margin:0 auto 1.5rem auto;">
 {{< /rawhtml >}}
 
 ## Robert Winer, M.D., Dipl. (FAZ, Zürich), FRSM
