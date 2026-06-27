@@ -1,7 +1,7 @@
 ---
 title: "Robert Winer, M.D., Dipl. (FAZ, Zürich), FRSM"
-description: "Psychoanalysis and neuropsychiatric second opinion consultations in Boulder, CO."
-lead: "Board-certified neurologist and fellowship-trained psychopharmacologist, practicing psychoanalysis and conducting single-examination second opinions in neurology, neuropsychiatry, and psychopharmacology."
+description: "Psychoanalysis, Neuropsychological Testing and Neuropsychiatric Second Opinions in Boulder, CO."
+lead: "Board-certified neurologist and fellowship-trained psychopharmacologist, Practicing Psychoanalysis, Neuropsychological Testing, and Second Opinions in Neurology, Neuropsychiatry, and Psychopharmacology."
 ---
 
 {{< rawhtml >}}
@@ -22,16 +22,16 @@ lead: "Board-certified neurologist and fellowship-trained psychopharmacologist, 
 
 ---
 
-**Current practice is restricted to:**
+**Current practice:**
 
 - Psychoanalysis
-- Single (Second Opinion) Examinations in Neurology, Neuropsychiatry (with or without testing), and Psychopharmacology
+- Neuropsychological Testing
+- Second Opinions in Neurology, Neuropsychiatry (with or without testing), and Psychopharmacology
 
 **Not offered:**
 
 - Medications prescribed
 - Ongoing treatment of patients under the age of majority (18)
-- Family and couples evaluations and treatment
 
 All services are performed personally.
 
@@ -41,13 +41,13 @@ All services are performed personally.
 
 | Service | Fee |
 |---|---|
-| Initial visit / single exam consultation | $550 USD (Sliding Scale) |
-| Ongoing psychoanalytical sessions | $550 USD (Sliding Scale) |
-| Six-session introductory package | $2,400 USD (Sliding Scale) |
-| Ongoing extended psychoanalytical sessions | $750 USD (Sliding Scale) |
-| Screening neuropsychiatric and neuropsychological testing | $750 USD |
-| Complete neuropsychological battery / forensic battery | $750 USD/hour |
-| Expert record review and opinion | $750 USD/hour |
+| Initial visit / single exam consultation | $400 USD (Sliding Scale) |
+| Ongoing psychoanalytical sessions | $400 USD (Sliding Scale) |
+| Six-session introductory package | $2000 USD (Sliding Scale) |
+| Ongoing extended psychoanalytical sessions | $500 USD (Sliding Scale) |
+| Screening neuropsychiatric and neuropsychological testing | $400 USD |
+| Complete neuropsychological battery / forensic battery | $400 USD/hour |
+| Expert record review and opinion | $600 USD/hour |
 
 No insurance accepted. Fees payable at the time of visit. Sliding scale available based on income. Fees subject to change.
 
